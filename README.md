@@ -8,7 +8,7 @@ Website : [Katieum](https://Katieum.co.za)
 
 Follow Katieum @
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/lordkatlehoeagle)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/E4Katieum)
 
 ## Resources :
 - [Mathematics Book](https://katleho-nyoni.github.io/Mathematics/)
