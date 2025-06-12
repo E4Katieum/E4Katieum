@@ -2,7 +2,7 @@
 ![](KATIEUM.png)
 
 A platform that provides a comprehensive series of lessons using animation, on Grade 12 Mathematics & Physical Sciences of South Africa.
-To learn more, read the [**documentation**](./Documentation/).
+To learn more, read the [**documentation**](https://github.com/E4Katieum/Documentation).
 ## 🌐 Socials:
 Website : [Katieum](https://Katieum.co.za)
 
