@@ -1,4 +1,18 @@
-## Hi there 👋
+# WELCOME TO
+![](KATIEUM.png)
+
+A platform that provides a comprehensive series of lessons using animation, on Grade 12 Mathematics & Physical Sciences of South Africa.
+To learn more, read the [**documentation**](./Documentation/).
+## 🌐 Socials:
+Website : [Katieum](https://Katieum.co.za)
+
+Follow Katieum @
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/lordkatlehoeagle)
+
+## Resources :
+- [Mathematics Book](https://katleho-nyoni.github.io/Mathematics/)
+
 
 <!--
 **E4Katieum/E4Katieum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
